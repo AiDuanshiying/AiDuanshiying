@@ -6,11 +6,7 @@ Previously, I received my B.S. in **Computer Science from Ocean University of Ch
 
 ---
 
-🔬 **Research Interests**
 
-- Multimodal Large Language Models (VLMs)
-- Embodied AI
----
 
 🚀 **Selected Work**
 
