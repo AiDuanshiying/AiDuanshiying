@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm **Shiying Duan**, a M.S. student in **Artificial Intelligence at Beihang University (BUAA)**.  
+
+I'm **Shiying Duan**, currently pursuing a **Ph.D. in Artificial Intelligence at Beihang University (BUAA)**.  
 My research focuses on **Multimodal Large Models and Embodied Intelligence**.
 
 Previously, I received my B.S. in **Computer Science from Ocean University of China (OUC)**.
