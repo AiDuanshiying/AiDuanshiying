@@ -4,4 +4,4 @@ I am a Ph.D. student in Artificial Intelligence at Beihang University (BUAA). My
 
 Previously, I received my B.S. in Computer Science from Ocean University of China (OUC).
 
-**Personal Academic Homepage:** [https://aiduanshiying.github.io/](https://aiduanshiying.github.io/)
+
